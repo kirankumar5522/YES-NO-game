@@ -1,5 +1,5 @@
 document.getElementById("yesButton").addEventListener("click", function() {
-    alert("I like you too 🥰");
+    alert("But I like you 🥰");
 });
 
 document.getElementById("noButton").addEventListener("click", function() {
